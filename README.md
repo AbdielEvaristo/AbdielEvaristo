@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Tenho conhecimento em muitas linguagens de programação. Meu objetivo é me desenvolver como programador Web.</h2>
+<h2 align="left">Tenho conhecimento em várias linguagens de programação e uma paixão por programar. Meu objetivo é me desenvolver como programador Web.</h2>
 
 ###
 
